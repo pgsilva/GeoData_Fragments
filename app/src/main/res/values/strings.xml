@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="nome_pais">Brasil</string>
+    <string name="capital_pais">Brasília</string>
+    <string name="regiao_pais">America do Sul</string>
+</resources>
